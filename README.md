@@ -24,7 +24,7 @@ Hosted in AWS ap-south-1 (Mumbai) region.
 <img width="1920" height="1080" alt="Screenshot 2026-06-07 064624" src="https://github.com/user-attachments/assets/a9589b2b-f388-47da-951a-3f08a438f8f5" />
 <img width="1920" height="1080" alt="Screenshot 2026-06-07 064642" src="https://github.com/user-attachments/assets/5488ee02-18a1-460b-ae65-8c25c2c01fc8" />
 <img width="1920" height="1080" alt="Screenshot 2026-06-07 064754" src="https://github.com/user-attachments/assets/2bcd29d2-ecbb-4605-97cb-a37d3f283ee7" />
-
+Save Changes
 ### Static Website Hosting Enabled
 <img width="1921" height="1025" alt="Screenshot 2026-06-07 064210" src="https://github.com/user-attachments/assets/692b27b7-1d81-4864-8bbd-9f733a28bfa8" />
 <img width="1920" height="1080" alt="Screenshot 2026-06-07 064218" src="https://github.com/user-attachments/assets/4030d11e-53b5-4553-a5f7-5450728efb0f" />
