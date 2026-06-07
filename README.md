@@ -14,7 +14,7 @@ Hosted in AWS ap-south-1 (Mumbai) region.
 ## Screenshots
 
 ### Live Website
-![Live Website](screenshots/website.png)
+<img width="1920" height="1080" alt="Screenshot 2026-06-07 065414" src="https://github.com/user-attachments/assets/23c08fd8-f675-471c-be6a-2a5634baab43" />
 
 ### S3 Bucket Configuration
 ![S3 Bucket](screenshots/s3-bucket.png)
