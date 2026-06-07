@@ -11,6 +11,19 @@ Hosted in AWS ap-south-1 (Mumbai) region.
 
 ---
 
+## Screenshots
+
+### Live Website
+![Live Website](screenshots/website.png)
+
+### S3 Bucket Configuration
+![S3 Bucket](screenshots/s3-bucket.png)
+
+### Static Website Hosting Enabled
+![Static Hosting](screenshots/static-hosting.png)
+
+---
+
 ## What I Did
 
 - Created an S3 bucket in AWS ap-south-1 (Mumbai)
